@@ -9,3 +9,7 @@ I have basic programming skills in C.
 ## Interest
 
 I am interested in programming and learning new technologies.
+
+## goal
+
+contribute to generative AI
