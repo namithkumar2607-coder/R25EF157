@@ -13,3 +13,7 @@ I am interested in programming and learning new technologies.
 ## goal
 
 contribute to generative AI
+
+## Projects
+
+I am working on C programming and GitHub projects as part of my engineering studies
